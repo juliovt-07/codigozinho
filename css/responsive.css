@@ -1,0 +1,112 @@
+@media screen and (min-width: 600px) {
+    img {
+        width: 10em;
+        margin-top: -7%;
+    }
+
+    .end {
+        margin-top: 9%;
+        font-size: 130%;
+    }
+
+    .list {
+        width: 90%;
+        display: flex;
+        margin: auto;
+    }
+
+    .btn {
+        font-size: 110%;
+    }
+
+    .rodape p {
+        margin-top: 20%;
+        font-size: 115%;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    img {
+        width: 12em;
+        margin-top: -5%
+    }
+
+    .end {
+        margin-top: 9%;
+        font-size: 150%;
+    }
+
+    .list {
+        width: 90%;
+        display: flex;
+        margin: auto;
+    }
+
+    .btn {
+        height: 70px;
+        font-size: 130%;
+    }
+
+    .rodape p {
+        margin-top: 20%;
+        font-size: 130%;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    img {
+        width: 15em;
+        margin-top: -7%;
+    }
+
+    .end {
+        margin-top: 9%;
+        font-size: 175%;
+    }
+
+    .list {
+        width: 80%;
+        display: flex;
+        margin: auto;
+    }
+
+    .btn {
+        height: 70px;
+        font-size: 150%;
+    }
+
+    .rodape p {
+        margin-top: 15%;
+        font-size: 140%;
+    }
+}
+
+@media screen and (min-width: 1300px) {
+    img {
+        width: 20em;
+        margin-top: -10%;
+    }
+
+    .end {
+        margin-top: 7%;
+        font-size: 180%;
+    }
+
+    .list {
+        width: 60%;
+        display: flex;
+        margin: auto;
+    }
+
+    .btn {
+        height: 80px;
+        font-size: 160%;
+    }
+
+    .rodape p {
+        margin-top: 15%;
+        font-size: 170%;
+    }
+}
+
+
